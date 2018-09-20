@@ -1,0 +1,11 @@
+{
+    "admins": {
+      "dev": "dev"
+    },
+    "scopes": [
+      "@md"
+    ],
+    "enablePrivate": true,
+    "bindingHost": "0.0.0.0",
+    "registryHost": "localhost:17001"
+  }
